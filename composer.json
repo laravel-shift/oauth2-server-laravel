@@ -21,7 +21,7 @@
         "illuminate/http": "^9.0",
         "illuminate/support": "^9.0",
         "illuminate/config": "^9.0",
-        "league/oauth2-server": "4.1.*"
+        "league/oauth2-server": "^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^7.0",
