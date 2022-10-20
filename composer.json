@@ -34,15 +34,8 @@
         }
     },
     "autoload-dev": {
-        "psr-4": {
-            "LucaDegasperi\\OAuth2Server\\Tests\\": "tests"
-        },
         "classmap": [
             "database"
-        ],
-        "files": [
-            "tests/AbstractTestCase.php",
-            "tests/integration/AbstractDBTestCase.php"
         ]
     },
     "extra": {
